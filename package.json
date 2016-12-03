@@ -1,0 +1,20 @@
+{
+  "name": "locloud-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lobor/locloud-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lobor/locloud-server/issues"
+  },
+  "homepage": "https://github.com/lobor/locloud-server#readme"
+}
