@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/lobor/locloud-server/issues"
   },
-  "homepage": "https://github.com/lobor/locloud-server#readme"
+  "homepage": "https://github.com/lobor/locloud-server#readme",
+  "dependencies": {
+    "peer": "^0.2.8",
+    "peerjs": "^0.3.14"
+  }
 }
